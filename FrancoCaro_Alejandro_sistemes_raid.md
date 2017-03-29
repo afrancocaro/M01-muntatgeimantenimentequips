@@ -3,6 +3,7 @@ SISTEMES RAID
 1. Resum de sistemes RAID fent servir una taula com la vista a classe.1
 
 | Nº MÍNIM DISCS | Nº MÀXIM DISCS FALLATS | CAPACITAT | LECTURA | ESCRIPTURA |
+| -------------- | ---------------------- | --------- | ------- | ---------- |
 |RAID 0 | 2 | 0 | 100% |Excelent | Excelent |
 |RAID 1 | 2 (Màxim) | 1 | 50% |Very Good|  Good |
 |RAID 5 | 3 | 1 |  67%-94%  |Very Good|    Good    |
