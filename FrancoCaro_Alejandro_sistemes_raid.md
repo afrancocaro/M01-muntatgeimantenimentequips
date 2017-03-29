@@ -16,7 +16,7 @@
 - Crear tres discs durs de 200MB a la màquina virtual per crear el sistema RAID.
 - Instalar mdadm.
 - Crear el RAID que volguem (comandes exercicis següents).
-- Crear sistema de fitxers : mkfs.ext4_dev/md0.
+- Crear sistema de fitxers : # mkfs.ext4_dev/md0.
 - Muntar RAID : mount_dev/md0_/mnt.
 - Crear carpetes o archius.
 - Mirar discs : cat_proc/mdstat.
