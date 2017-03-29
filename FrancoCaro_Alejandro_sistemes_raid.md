@@ -3,12 +3,12 @@
 ### 1. Resum de sistemes RAID fent servir una taula com la vista a classe.1
 
 | TIPUS DE RAID | Nº MÍNIM DISCS | Nº MÀXIM DISCS FALLATS | CAPACITAT | LECTURA | ESCRIPTURA |
-| -------------- | -------------- | ---------------------- | --------- | ------- | ---------- |
-|    RAID 0      |     2     |      0      | 100% |Excelent | Excelent |
-|RAID 1 | 2 (Màxim) | 1 | 50% |Very Good|  Good |
-|RAID 5 |     3     | 1 | 67%-94%|Very Good|    Good    |
-|RAID 6 |     4     | 2 | 50%-88% | Good | Good |
-|RAID 10|     4     | 1/Mirror | 50% |Very Good| Good |
+| --------------| -------------- | ---------------------- | --------- | ------- | ---------- |
+|    RAID 0     |     2     |      0      | 100% |Excelent | Excelent |
+|    RAID 1     | 2 (Màxim) | 1 | 50% |Very Good|  Good |
+|    RAID 5     |     3     | 1 | 67%-94%|Very Good|    Good    |
+|    RAID 6     |     4     | 2 | 50%-88% | Good | Good |
+|    RAID 10    |     4     | 1/Mirror | 50% |Very Good| Good |
 
 
 ### 2. Descripció de la metodologia utilitzada a classe per a fer proves amb màquines virtuals.
