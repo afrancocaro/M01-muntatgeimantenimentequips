@@ -5,7 +5,7 @@ SISTEMES RAID
 |                | Nº MÍNIM DISCS | Nº MÀXIM DISCS FALLATS | CAPACITAT | LECTURA | ESCRIPTURA |
 | -------------- | -------------- | ---------------------- | --------- | ------- | ---------- |
 |    RAID 0      |     2     |      0      | 100% |Excelent | Excelent |
-| --------------|
+| -------------- |
 |RAID 1 | 2 (Màxim) |      1      | 50% |Very Good|  Good |
 |RAID 5 |     3     |      1      | 67%-94%|Very Good|    Good    |
 |RAID 6 |     4     |      2      | 50%-88% | Good | Good |
