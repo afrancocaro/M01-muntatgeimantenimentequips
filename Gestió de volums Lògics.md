@@ -8,7 +8,7 @@
 #### Dividits en tres tipus:
 - PV (Physical Volume) = Identificador de discs.
 - VG (Volume Group) = Discs virtuals.
-- LV (Logical Volume = Particions.
+- LV (Logical Volume) = Particions.
 
 #### Entorn de pràctiques:
 
