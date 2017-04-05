@@ -39,3 +39,5 @@ Obrirem la maquina virtual, afegirem un hardware, tres discs virtuals de 200M qu
 ##### Pràctica 5: Ampliació del sistema de fitxers xfs al tamany actual del volum lògic dades (s'ha de poder fer sense desmuntar-lo de /mnt ja que és xfs). Una vegada creat crearem un nou fitxer de 180M.
 
     xfs growfs /dev/practica1/dades
+    
+    dd if=/dev/zero of=test img bs=1k count=180000
