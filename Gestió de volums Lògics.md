@@ -15,7 +15,7 @@ El LMV (Gestor de volums lògics, Logical Volume Manager) és un sistema de part
 
     - pvs : Proporciona informació del volums físics. 
     - vgs : Proporciona informació dels volums de grup.
-    - lvs : Proporciona informació dels volums lógics. 
+    - lvs : Proporciona informació dels volums lògics. 
 
 #### Entorn de pràctiques:
 
