@@ -12,7 +12,7 @@
 
 #### Entorn de pràctiques:
 
-Obrirem el programama virtmanager, crearem la maquina virtual, afegirem un hardware, tres discs virtuals de 200M que es dirán **dev/vda**, **dev/vdb**, **dev/vdc**.
+Obrirem el programama virt-manager, crearem la maquina virtual, afegirem un hardware, tres discs virtuals de 200M que es dirán **dev/vda**, **dev/vdb**, **dev/vdc**.
 
 ##### Pràctica 1: Creació d'un volum lògic a partir d'un dels tres discs durs (vda per exemple). Aquest volum lògic ha de ser del total de capacitat del disc. El volum de grup s'ha de dir practica1 i el volum lògic dades.
 
