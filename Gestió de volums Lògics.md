@@ -2,7 +2,7 @@
 
 #### Descripció del que són:
 
-El LMV (Gestor de volums lògics, Logical Volume Manager) es un sistema de particions independents de l'estructura subjacent del disc, amb el que es posible crear un espai d'emmagatzematge abstracte, així com particions virtuals, de manera que es més fàcil d'ampliar o disminuir particions.
+El LMV (Gestor de volums lògics, Logical Volume Manager) és un sistema de particions independents de l'estructura subjacent del disc, amb el que es posible crear un espai d'emmagatzematge abstracte, així com particions virtuals, de manera que es més fàcil d'ampliar o disminuir particions.
 
 
 #### Els tres blocs bàsics:
