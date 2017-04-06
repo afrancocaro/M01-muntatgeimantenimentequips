@@ -2,10 +2,10 @@
 
 #### Descripció del que són:
 
-El LMV (Gestor de volums lògics, Logical Volume Manager) es un mètode de localització de l'espai de disc dur en volums lògics que poden ser facilment redimensionats en lloc de particionats.
+El LMV (Gestor de volums lògics, Logical Volume Manager) es un sistema de particions independents de l'estructura subjacent del disc, amb el que es posible crear un espai d'emmagatzematge abstracte, així com particions virtuals, de manera que es més fàcil d'ampliar o disminuir particions.
 
 
-#### Dividits en tres tipus:
+#### Els tres blocs bàsics:
 
     - PV (Physical Volume) = Identificador de discs.
     - VG (Volume Group) = Discs virtuals.
