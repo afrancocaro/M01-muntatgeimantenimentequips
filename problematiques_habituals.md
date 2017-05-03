@@ -32,10 +32,9 @@
     1-A l'hora d'ininciar l'ordinador sonen 3 beeps de so que indiquen que no hi ha memòria RAM.
     
     Gráfica pinchada rota:
-    1-
-    2-
-    3-
-    4-
+    1-Comprovar que la pantalla no hi estgui negre i s'encengui.
+    2-Conectar una pantalla diferent a l'ordinador.
+    3-Canviar la gráfica.
     
     CPU rota/ no hay CPU/chipset roto:
     1-Apretem el botó per encendre l'ordinador, però si no hi encén no hi ha CPU/chipset, està mal osada al módul, o no funciona.
