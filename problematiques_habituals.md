@@ -26,7 +26,7 @@
     
     RAM medio rota: (unos KB mal)
     1-A l'hora d'ininciar l'ordinador sonen 3 beeps de so que indiquen que no hi ha memòria RAM.
-    2-
+    2-No detecta tot el tamany que correspón a la RAM.
     
     Sin RAM:
     1-A l'hora d'ininciar l'ordinador sonen 3 beeps de so que indiquen que no hi ha memòria RAM.
@@ -34,10 +34,11 @@
     Gráfica pinchada rota:
     1-
     2-
+    3-
+    4-
     
     CPU rota/ no hay CPU/chipset roto:
-    1-
-    2-
+    1-Apretem el botó per encendre l'ordinador, però si no hi encén no hi ha CPU/chipset, està mal osada al módul, o no funciona.
     
     Placa rota:
     1-
@@ -52,8 +53,8 @@
     2-
     
     Falta ratón: No se queja.
-    1-
-    2-
+    1-Falten drivers.
+    2-Comprovem conectant un altre ratolí.
     
     Falla CD/DVD: No se queja.
     1-
