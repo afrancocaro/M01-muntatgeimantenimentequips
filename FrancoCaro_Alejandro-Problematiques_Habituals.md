@@ -37,7 +37,7 @@
     3-Canviar la gráfica.
     
     CPU rota/ no hay CPU/chipset roto:
-    1-Apretem el botó per encendre l'ordinador, però si no hi encén no hi ha CPU/chipset, està mal osada al módul, o no funciona.
+    1-Apretem el botó per encendre l'ordinador, però si no hi encén no hi ha CPU/chipset, està mal posada al módul, o no funciona.
     
     Placa rota:
     1-
