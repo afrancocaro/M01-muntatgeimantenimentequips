@@ -12,7 +12,7 @@
         
         A quina capa/capes sol treballar tradicionalment un tallafocs?
         
-## Tallafocs Linux
+##Tallafocs Linux
         Busqueu quins són els tradicionals sistemes de tallafocs incorporats en linux i anomeneu-los.
         -INPUT.
         -OUTPUT.
