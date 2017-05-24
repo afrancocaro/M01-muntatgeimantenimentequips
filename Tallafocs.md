@@ -6,9 +6,13 @@ Es un sistema que proporciona seguretat de xarxa mitjançant el filtrat del trà
 -Filtrat amb estat: Determinen l'estat de la conexió del paquets.
 -Filtrat d'aplicació (sense estat): Permeten o denegen els paquets basats en portades dels paquets individuals.
 #### Quines capes té el model OSI?
--Filtrat de paquets.
-
--Filtrat d'aplicació.
+7. Aplicació
+6. Presentació
+5. Sessió
+4. Transport 
+3. Xarxa
+2. Enllaç de dades
+1. Física
 #### Quines capes té el model TCP/IP? En aquest cas feu una breu descripció de les funcionalitats de cada capa.
 
 
