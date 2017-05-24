@@ -1,5 +1,5 @@
 # Tallafocs
-        Què es un sistema tallafocs? Quina és la seva finalitat?
+#### Què es un sistema tallafocs? Quina és la seva finalitat?
         Es un sistema que proporciona seguretat de xarxa mitjançant el filtrat del tràfic déntrada i de sortida basat en un conjunt de regles definides per l'usuari. La seva finalitat és la de reduir o eliminar la ocurrencia de les comunicacións de xarxa no desitjats al temps que permet tota la comunicació legítima flueixi lliurement.
         Quines generacions de tallafocs hi ha hagut i què millorava cadascun?
         -Filtrat de paquets: Permeten o denegen els paquets basats en portades dels paquets individuals.
