@@ -5,7 +5,7 @@ Es un sistema que proporciona seguretat de xarxa mitjançant el filtrat del trà
 -Filtrat de paquets: Permeten o denegen els paquets basats en portades dels paquets individuals.
 -Filtrat amb estat: Determinen l'estat de la conexió del paquets.
 -Filtrat d'aplicació (sense estat): Permeten o denegen els paquets basats en portades dels paquets individuals.
-####Quines capes té el model OSI?
+#### Quines capes té el model OSI?
 -Filtrat de paquets.
 -Filtrat d'aplicació.
 #### Quines capes té el model TCP/IP? En aquest cas feu una breu descripció de les funcionalitats de cada capa.
@@ -14,7 +14,7 @@ Es un sistema que proporciona seguretat de xarxa mitjançant el filtrat del trà
 #### A quina capa/capes sol treballar tradicionalment un tallafocs?
         
 ## Tallafocs Linux
-####Busqueu quins són els tradicionals sistemes de tallafocs incorporats en linux i anomeneu-los.
+#### Busqueu quins són els tradicionals sistemes de tallafocs incorporats en linux i anomeneu-los.
 -INPUT.
 -OUTPUT.
 -FOWARD.
