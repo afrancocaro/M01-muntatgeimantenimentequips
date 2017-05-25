@@ -40,7 +40,7 @@ Un tallafocs sol treballar des de la capa 3 (Transport) fins a la capa 4 (Aplica
 Els dos hi estan instal·lats per defecte al Linux i, per tant, estan instal·lats al Fedora de classe.
 
 - firewalld: systemctl status firewalld.service (Més de Fedora 19)
-- iptables: iptable --version (Menys de Fedora 19)
+- iptables: systemctl status iptables.service (Menys de Fedora 19)
 
 #### Algun dels anteriors tallafocs es troba activat? 
 
