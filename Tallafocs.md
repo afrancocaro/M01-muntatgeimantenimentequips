@@ -38,13 +38,13 @@ Un tallafocs sol treballar des de la capa 3 (Transport) fins a la capa 4 (Aplica
 #### Quins dels anteriors tallafocs estan instal.lats al fedora de classe? Com ho comproveu?
 
 Els dos hi estan instal·lats per defecte al Linux i, per tant, estan instal·lats al Fedora de classe.
-- firewalld: systemctl status firewalld.service  
-- iptables: iptables --version
+
+- firewalld: systemctl status firewalld.service (Més de Fedora 19)
+- iptables: iptables --version (Menys de Fedora 19)
 
 #### Algun dels anteriors tallafocs es troba activat? 
 
-El firewalld està desactivat.
-Les iptables,sempre estàn actives a Linux.
+El firewalld està desactivat, i les iptables, sempre estàn actives a Linux.
 
 #### Instal.leu el servidor web httpd o nginx i activeu-ne el servei (dnf installl ...  ; systemctl ....). Indiqueu les comandes i comproveu que des d'una altra màquina podeu accedir via web a la vostra IP (digueu-li a un company). Hauria de sortir la plana per defecte.
 
@@ -57,22 +57,22 @@ Les iptables,sempre estàn actives a Linux.
 
 #### Comproveu si ara es pot seguir accedint.
 
-No podem continuar accedint-hi degut a què el firewalld bloqueja per defecte el trànsit entrant a la nostra màquina.
+No podem continuar accedint-hi degut a què el firewalld bloqueja per defecte el tràfic entrant a la nostra màquina.
 
 ## Win7
 
-#### Porta aquest SO algun tallafocs incorporat?
+#### Porta aquest SO algún tallafocs incorporat?
 
-Porta per defecte un tallafocs anomenat Firewall de Windows, que està actvat per defecte.
+Porta per defecte un tallafocs anomenat Firewall de Windows, que hi es activat.
 
 #### Arrenqueu una màquina win7 a isard.escoladeltreball.org
 
 #### Indiqueu com arribar al tallafocs (passos i pantalles).
 
-1- Obrim el menú d'Inici
-2- Obrim el "Panel de Control"
-3- Fem click sobre "Sistema y Seguridad"
-4- Fem click sobre "Firewall de Windows"
+1- Obrim el menú d'Inici.
+2- Obrim el "Panel de Control".
+3- Fem click sobre "Sistema y Seguridad".
+4- Fem click sobre "Firewall de Windows".
 
 #### Es troba activat en aquest windows?
 
@@ -81,8 +81,8 @@ Sí, hi és activat per defecte.
 #### Busqueu un altre tallafocs per windows. Indiqueu la plana web i les prestacions que ens dona. Intenteu que NOMÉS sigui tallafocs.
 
 Tinywall:  
-Funciona en segon pla per no molestar al usuari.
-No és intrusiu (no et bombardeja amb popups).
-És molt lleuger (~1MB).
-És gratuït i sense publicitat.
-Et permet un control total sobre les seves característiques.
+- Funciona en segon pla per no molestar al usuari.
+- No és intrusiu (no et bombardeja amb popups).
+- És molt lleuger (~1MB).
+- És gratuït i sense publicitat.
+- Et permet un control total sobre les seves característiques.
