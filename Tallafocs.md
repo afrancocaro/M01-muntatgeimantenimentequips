@@ -69,10 +69,10 @@ Porta per defecte un tallafocs anomenat Firewall de Windows, que hi es activat.
 
 #### Indiqueu com arribar al tallafocs (passos i pantalles).
 
-1- Obrim el menú d'Inici.
-2- Obrim el "Panel de Control".
-3- Fem click sobre "Sistema y Seguridad".
-4- Fem click sobre "Firewall de Windows".
+1. Obrim el menú d'Inici.
+2. Obrim el "Panel de Control".
+3. Fem click sobre "Sistema y Seguridad".
+4. Fem click sobre "Firewall de Windows".
 
 #### Es troba activat en aquest windows?
 
