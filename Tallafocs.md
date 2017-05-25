@@ -40,7 +40,7 @@ Un tallafocs sol treballar des de la capa 3 (Transport) fins a la capa 4 (Aplica
 Els dos hi estan instal·lats per defecte al Linux i, per tant, estan instal·lats al Fedora de classe.
 
 - firewalld: systemctl status firewalld.service (Més de Fedora 19)
-- iptables: iptables --version (Menys de Fedora 19)
+- iptables: iptable --version (Menys de Fedora 19)
 
 #### Algun dels anteriors tallafocs es troba activat? 
 
@@ -83,6 +83,6 @@ Sí, hi és activat per defecte.
 Tinywall:  
 - Funciona en segon pla per no molestar al usuari.
 - No és intrusiu (no et bombardeja amb popups).
-- És molt lleuger (~1MB).
+- És molt lleuger (1MB).
 - És gratuït i sense publicitat.
 - Et permet un control total sobre les seves característiques.
