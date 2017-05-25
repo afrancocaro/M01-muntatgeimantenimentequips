@@ -2,10 +2,10 @@
 #### Què es un sistema tallafocs? Quina és la seva finalitat?
 
 Es un sistema que proporciona seguretat de xarxa mitjançant el filtrat del tràfic d'entrada i sortida basat en un conjunt de regles definides per l'usuari. La seva finalitat és la de reduir o eliminar la concurréncia de les comunicacións de xarxa no desitjats al temps que permet tota la comunicació legítima flueixi lliurement.
-####uines generacions de tallafocs hi ha hagut i què millorava cadascun?
-1.Filtrat de paquets: Permeten o denegen els paquets basats en portades dels paquets individuals.
-2.Filtrat amb estat: Determinen l'estat de la conexió del paquets.
-3.Filtrat d'aplicació (sense estat): Permeten o denegen els paquets basats en portades dels paquets individuals.
+#### Quines generacions de tallafocs hi ha hagut i què millorava cadascun?
+1. Filtrat de paquets: Permeten o denegen els paquets basats en portades dels paquets individuals.
+2. Filtrat amb estat: Determinen l'estat de la conexió del paquets.
+3. Filtrat d'aplicació (sense estat): Permeten o denegen els paquets basats en portades dels paquets individuals.
 
 #### Quines capes té el model OSI?
 
@@ -18,8 +18,9 @@ Es un sistema que proporciona seguretat de xarxa mitjançant el filtrat del trà
 1. Física
 
 #### Quines capes té el model TCP/IP? En aquest cas feu una breu descripció de les funcionalitats de cada capa.
-4. Aplicació: Nivell que els programes mes habituals utilitzen per comunicar-se amb la xarxa
-3. Transport: Soluciona problemes com la fiabilitat i seguretat, de que les dades arribin al destí i que ho fagin en l'ordre correcte.
+
+4. Aplicació: Nivell que els programes més habituals utilitzen per comunicar-se amb la xarxa.
+3. Transport: Soluciona problemes com la fiabilitat i seguretat, que les dades arribin al destí i que ho fagin en l'ordre correcte.
 2. Internet: Soluciona els problemes de transportar paquets a una xarxa.
 1. Accés al medi: S'utilitza per passar paquets de la capa d'internet d'un dispositiu a la capa internet d'un altre.
 
@@ -46,11 +47,14 @@ El firewalld està desactivat.
 Les iptables,sempre estàn actives a Linux.
 
 #### Instal.leu el servidor web httpd o nginx i activeu-ne el servei (dnf installl ...  ; systemctl ....). Indiqueu les comandes i comproveu que des d'una altra màquina podeu accedir via web a la vostra IP (digueu-li a un company). Hauria de sortir la plana per defecte.
+
 - dnf install nginx
 - systemctl start nginx.service
 
 #### Activeu el servei firewall. Indiqueu com ho feu.
+
 - systemctl start firewalld.service
+
 #### Comproveu si ara es pot seguir accedint.
 
 No podem continuar accedint-hi degut a què el firewalld bloqueja per defecte el trànsit entrant a la nostra màquina.
