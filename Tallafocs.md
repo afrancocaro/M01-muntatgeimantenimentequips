@@ -59,7 +59,7 @@ El firewalld està desactivat, i les iptables, sempre estàn actives a Linux.
 
 No podem continuar accedint-hi degut a què el firewalld bloqueja per defecte el tràfic entrant a la nostra màquina.
 
-## Win7
+## Tallafocs Win7
 
 #### Porta aquest SO algún tallafocs incorporat?
 
